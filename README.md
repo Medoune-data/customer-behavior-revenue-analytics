@@ -9,34 +9,30 @@ Mon travail consiste à analyser les données clients pour identifier les levier
 
 ### Ce que démontre ce portfolio
 
-Analyser le comportement d'achat des clients à partir de données transactionnelles
-
-Prioriser les clients et segments selon leur impact réel sur le chiffre d’affaires
-
-Diagnostiquer les risques de churn et quantifier les pertes de revenu associées
-
-Évaluer la rentabilité des actions marketing et des stratégies de prix
-
-Anticiper les ventes pour aider à la planification et à la gestion du risque
+- Analyser le comportement d'achat des clients à partir de données transactionnelles
+- Prioriser les clients et segments selon leur impact réel sur le chiffre d’affaires
+- Diagnostiquer les risques de churn et quantifier les pertes de revenu associées
+- Évaluer la rentabilité des actions marketing et des stratégies de prix
+- Anticiper les ventes pour aider à la planification et à la gestion du risque
 
 ## Projets
 
 Ce portfolio est structuré autour de 8 projets analytiques orientés décision :
 
-### Projet 1 —- Segmentation client orientée valeur (RFM, Pareto, ABC)
+#### Projet 1 —- Segmentation client orientée valeur (RFM, Pareto, ABC)
 
-### Projet 2 —- Customer Lifetime Value (CLV) prédictif
+#### Projet 2 —- Customer Lifetime Value (CLV) prédictif
 
-### Projet 3 —- Analyse du parcours client et identification des frictions
+#### Projet 3 —- Analyse du parcours client et identification des frictions
 
-### Projet 4 —- Diagnostic churn orienté revenu
+#### Projet 4 —- Diagnostic churn orienté revenu
 
-### Projet 5 —- Rentabilité des campagnes marketing
+#### Projet 5 —- Rentabilité des campagnes marketing
 
-### Projet 6 —- Pricing & élasticité de la demande
+#### Projet 6 —- Pricing & élasticité de la demande
 
-### Projet 7 —- Prévision des ventes orientée décision
+#### Projet 7 —- Prévision des ventes orientée décision
 
-### Projet 8 —- Diagnostic des pertes invisibles (projet signature)
+#### Projet 8 —- Diagnostic des pertes invisibles (projet signature)
 
 Chaque projet vise à répondre à une question business précise et à formuler des recommandations concrètes exploitables par une entreprise.
