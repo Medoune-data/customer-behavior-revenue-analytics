@@ -6,3 +6,5 @@ Dans un contexte de ressources marketing limitées, une entreprise de retail ne 
 ## Question de décision
 Quels clients doivent être priorisés, protégés ou rationalisés afin de maximiser l'impact des investissements marketing et de rétention sur le chiffre d'affaires ?
 
+## Approche analytique
+<à écrire ensuite>
