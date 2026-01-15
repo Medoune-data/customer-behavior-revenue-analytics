@@ -18,35 +18,35 @@ Enfin, la combinaison de l'analyse comportementale et de la concentration du chi
 ## Methodology
 
 ### Data preparation
-L’analyse repose sur le dataset *Online Retail*, contenant l’historique des transactions clients. Les données ont été préparées afin de ne conserver que les transactions pertinentes pour l’analyse de la valeur client. Les opérations annulées ou non représentatives (quantités ou prix négatifs ou nuls) ont été exclues.
+L'analyse repose sur le dataset *Online Retail*, contenant l'historique des transactions clients. Les données ont été préparées afin de ne conserver que les transactions pertinentes pour l'analyse de la valeur client. Les opérations annulées ou non représentatives (quantités ou prix négatifs ou nuls) ont été exclues.
 
-Les transactions ont ensuite été agrégées au niveau client afin d’obtenir une vision consolidée du comportement d’achat. Les variables clés retenues sont la date de transaction, le nombre de commandes et le montant total dépensé par client.
+Les transactions ont ensuite été agrégées au niveau client afin d’obtenir une vision consolidée du comportement d'achat. Les variables clés retenues sont la date de transaction, le nombre de commandes et le montant total dépensé par client.
 
-L’analyse est menée sur l’ensemble des transactions disponibles, avec une date de référence correspondant à la dernière transaction observée dans le dataset.
-
----
-
-### RFM analysis
-La segmentation comportementale repose sur trois dimensions complémentaires : la récence des achats, la fréquence d’achat et le montant total dépensé. Ces indicateurs permettent d’évaluer respectivement l’actualité de la relation client, son intensité et sa valeur économique.
-
-Chaque dimension est traduite en scores ordinalisés afin de rendre les profils clients comparables et interprétables. Les seuils de scoring ont été définis selon une logique métier, privilégiant la lisibilité et l’actionnabilité plutôt que des découpages purement statistiques.
+L'analyse est menée sur l'ensemble des transactions disponibles, avec une date de référence correspondant à la dernière transaction observée dans le dataset.
 
 ---
 
-### Revenue concentration (Pareto)
-Afin d’identifier les clients stratégiques du point de vue du chiffre d’affaires, une analyse de concentration des revenus a été réalisée. Cette approche permet de mettre en évidence l’asymétrie de contribution entre clients et de confirmer que la création de valeur repose sur une minorité de la base.
+### Analyse RFM 
+La segmentation comportementale repose sur trois dimensions complémentaires : la récence des achats, la fréquence d'achat et le montant total dépensé. Ces indicateurs permettent d'évaluer respectivement l'actualité de la relation client, son intensité et sa valeur économique.
+
+Chaque dimension est traduite en scores ordinalisés afin de rendre les profils clients comparables et interprétables. Les seuils de scoring ont été définis selon une logique métier, privilégiant la lisibilité et l'actionnabilité plutôt que des découpages purement statistiques.
+
+---
+
+### Concentration des revenus (Pareto)
+Afin d'identifier les clients stratégiques du point de vue du chiffre d'affaires, une analyse de concentration des revenus a été réalisée. Cette approche permet de mettre en évidence l'asymétrie de contribution entre clients et de confirmer que la création de valeur repose sur une minorité de la base.
 
 Cette étape est essentielle pour distinguer les clients à forte valeur économique des clients à faible impact, indépendamment de leur comportement récent.
 
 ---
 
 ### ABC classification
-Sur la base de leur contribution au chiffre d’affaires, les clients ont été classés en trois catégories opérationnelles (A, B et C). Cette classification permet de traduire la valeur économique en niveaux de priorité exploitables pour les décisions marketing et de rétention.
+Sur la base de leur contribution au chiffre d'affaires, les clients ont été classés en trois catégories (A, B et C). Cette classification permet de traduire la valeur économique en niveaux de priorité exploitables pour les décisions marketing et de rétention.
 
 ---
 
-### Cross-analysis & segmentation
-Enfin, les dimensions comportementales (RFM) ont été croisées avec la classification de valeur (ABC) afin de construire une segmentation finale orientée décision. Cette approche permet d’identifier des profils clients distincts tels que les clients stratégiques à protéger, les clients à potentiel à développer et les clients pour lesquels une rationalisation des investissements est plus pertinente.
+### Analyse croisée et segmentation
+Enfin, les dimensions comportementales (RFM) ont été croisées avec la classification de valeur (ABC) afin de construire une segmentation finale orientée décision. Cette approche permet d'identifier des profils clients distincts tels que les clients stratégiques à protéger, les clients à potentiel qu'on doit développer et les clients pour lesquels une rationalisation des investissements est plus pertinente.
 
-La segmentation a été volontairement limitée à un nombre restreint de groupes afin de faciliter la prise de décision et l’allocation opérationnelle des ressources.
+La segmentation a été volontairement limitée à un nombre restreint de groupes afin de faciliter la prise de décision et l'allocation des ressources.
 
