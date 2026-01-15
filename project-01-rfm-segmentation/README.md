@@ -7,4 +7,8 @@ Dans un contexte de ressources marketing limitées, une entreprise de retail ne 
 Quels clients doivent être priorisés, protégés ou rationalisés afin de maximiser l'impact des investissements marketing et de rétention sur le chiffre d'affaires ?
 
 ## Approche analytique
-<à écrire ensuite>
+Dans un premier temps, l'analyse s'appuie sur le comportement d'achat des clients afin d'évaluer leur engagement et leur importance économique. Trois dimensions clés sont utilisées : la récence des achats, la fréquence d'achat et le montant dépensé. Ces dimensions permettent de capturer à la fois l'actualité de la relation client, son intensité et sa valeur monétaire.
+
+Dans un second temps, l'analyse intègre une logique de concentration du chiffre d'affaires inspirée de la loi de Pareto, selon laquelle une minorité de clients génère une part majoritaire des revenus. Cette approche permet d'identifier les clients stratégiques à forte contribution, mais aussi de distinguer les segments à potentiel ou à faible impact économique.
+
+Enfin, la combinaison de l'analyse comportementale et de la concentration du chiffre d'affaires permet de transformer les données clients en catégories directement actionnables. Cette segmentation vise à guider l'allocation des ressources marketing, à protéger les clients à forte valeur, à développer les segments prometteurs et à rationaliser les investissements sur les clients à faible contribution.
