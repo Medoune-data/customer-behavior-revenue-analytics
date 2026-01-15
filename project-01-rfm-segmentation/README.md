@@ -20,6 +20,9 @@ Enfin, la combinaison de l'analyse comportementale et de la concentration du chi
 ### Data preparation
 L'analyse repose sur le dataset *Online Retail*, contenant l'historique des transactions clients. Les données ont été préparées afin de ne conserver que les transactions pertinentes pour l'analyse de la valeur client. Les opérations annulées ou non représentatives (quantités ou prix négatifs ou nuls) ont été exclues.
 
+Les opérations de nettoyage et de filtrage ont été réalisées en SQL afin de garantir la qualité des données en amont.
+Les agrégations client et la logique de segmentation RFM ont ensuite été implémentées dans R pour bénéficier d'une plus grande flexibilité analytique et faciliter l'exploration métier.
+
 Les transactions ont ensuite été agrégées au niveau client afin d’obtenir une vision consolidée du comportement d'achat. Les variables clés retenues sont la date de transaction, le nombre de commandes et le montant total dépensé par client.
 
 L'analyse est menée sur l'ensemble des transactions disponibles, avec une date de référence correspondant à la dernière transaction observée dans le dataset.
