@@ -50,3 +50,30 @@ Enfin, les dimensions comportementales (RFM) ont été croisées avec la classif
 
 La segmentation a été volontairement limitée à un nombre restreint de groupes afin de faciliter la prise de décision et l'allocation des ressources.
 
+## Insights clés
+
+- Une minorité de clients concentre l'essentiel du chiffre d’affaires, confirmant une forte asymétrie de création de valeur au sein de la base clients. Une approche uniforme des actions marketing entraîne donc mécaniquement une dilution des investissements.
+
+- Les clients les plus récents présentent un potentiel de valeur élevé et contribuent significativement au chiffre d'affaires, juste après les clients les plus stratégiques. Leur activation rapide constitue un levier important de croissance.
+
+- Certains clients historiquement rentables montrent des signes de désengagement, ce qui représente un risque direct de perte de chiffre d'affaires futur s'ils ne sont pas identifiés et traités à temps.
+
+- Une large partie de la base clients génère une contribution économique limitée malgré un volume élevé de clients, indiquant que tous les segments ne justifient pas le même niveau d'investissement marketing.
+
+- Les priorités marketing non différenciées risquent de concentrer les efforts sur des segments à faible impact économique, au détriment des clients à forte valeur ou à potentiel.
+
+## Recommandations Business
+
+### Priorité 1 (P1) — Protéger et fidéliser les clients stratégiques
+Les clients à forte contribution doivent être considérés comme des actifs stratégiques. L'entreprise doit concentrer ses efforts de rétention sur ces profils afin de sécuriser le chiffre d'affaires existant et d'éviter toute perte de valeur significative. Une attention particulière doit être portée aux signaux de désengagement afin d’anticiper les risques de churn sur les clients les plus rentables.
+
+---
+
+### Priority 2 (P2) — Développer des segments à fort potentiel
+Les clients à potentiel représentent un levier de croissance important à moyen terme. L'objectif est de renforcer leur engagement et d'augmenter progressivement leur valeur à travers des actions ciblées et mesurées. Ces segments doivent bénéficier d'un suivi adapté, sans pour autant mobiliser des ressources comparables à celles des clients stratégiques.
+
+---
+
+### Priority 3 (P3) — Rationaliser les segments à faible valeur ajoutée
+Les clients à faible contribution ne justifient pas un investissement marketing élevé. L'entreprise doit privilégier des approches automatisées et à faible coût afin de limiter les dépenses tout en maintenant une présence minimale. Cette rationalisation permet de réallouer les ressources vers les segments à plus fort impact économique.
+
