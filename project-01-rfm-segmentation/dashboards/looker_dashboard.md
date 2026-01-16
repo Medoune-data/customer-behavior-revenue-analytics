@@ -1,6 +1,6 @@
 # Dashboard Looker Studio — RFM Segmentation & Priorisation Clients
 
-**Lien du dashboard** :  https://lookerstudio.google.com/reporting/ba8c33e4-7c54-4aa1-9b53-aaf942626280
+**Lien du dashboard** :  https://lookerstudio.google.com/s/n-XD5LPu2w0
 
 
 ---
