@@ -80,3 +80,35 @@ Les clients à potentiel représentent un levier de croissance important à moye
 ### Priority 3 (P3) — Rationaliser les segments à faible valeur ajoutée
 Les clients à faible contribution ne justifient pas un investissement marketing élevé. L'entreprise doit privilégier des approches automatisées et à faible coût afin de limiter les dépenses tout en maintenant une présence minimale. Cette rationalisation permet de réallouer les ressources vers les segments à plus fort impact économique.
 
+## ⚠️ Limitations & Next Steps
+
+### Limitations
+
+- **Données historiques uniquement**  
+  L'analyse repose uniquement sur les transactions passées (life-to-date). Elle ne prend pas en compte des facteurs externes pouvant influencer le comportement futur des clients (saisonnalité, concurrence, promotions à venir).
+
+- **Segmentation statique**  
+  La segmentation RFM est calculée à un instant donné à partir d'une date de référence fixe. Elle ne modélise pas l'évolution des clients dans le temps ni leurs transitions entre segments.
+
+- **Seuils RFM définis par logique métier**  
+  Les seuils de scoring RFM ont été choisis pour favoriser la lisibilité et l'actionnabilité business. Ils ne résultent pas d’une optimisation statistique ou algorithmique.
+
+- **Variables limitées**  
+  L'analyse ne prend pas en compte d'autres dimensions potentielles telles que les catégories de produits, les canaux d'achat ou la sensibilité aux promotions.
+
+### Next Steps
+
+- **Automatisation de la segmentation**  
+  Mettre en place une mise à jour régulière (mensuelle ou hebdomadaire) afin de suivre l'évolution des clients entre segments et détecter plus tôt les signaux de risque.
+
+- **Extension vers le CLV prédictif**  
+  Compléter la segmentation RFM par une estimation de la valeur future des clients afin de prioriser les décisions non seulement sur la valeur passée mais aussi sur le potentiel long terme (→ voir **Projet 02 - CLV**).
+
+- **Analyse churn orientée revenu**  
+  Approfondir les segments À Risque via un modèle de churn permettant d'estimer la perte de chiffre d'affaires future et d'orienter les actions de rétention (→ voir **Projet 04 - Churn**).
+
+- **Exploitation opérationnelle du dashboard**  
+  Utiliser le dashboard Looker Studio comme outil de pilotage pour l'allocation budgétaire, le ciblage des campagnes marketing et le suivi des indicateurs clés par segment.
+
+- **Enrichissement des données**  
+  Intégrer des variables supplémentaires (catégories produits, canaux, exposition marketing) afin d'affiner la segmentation et d'améliorer la précision des recommandations business.
