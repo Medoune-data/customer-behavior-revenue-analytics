@@ -19,20 +19,13 @@ Mon travail consiste à analyser les données clients pour identifier les levier
 
 Ce portfolio est structuré autour de 8 projets analytiques orientés décision :
 
-#### Projet 1 —- Segmentation client orientée valeur (RFM, Pareto, ABC)
-
-#### Projet 2 —- Customer Lifetime Value (CLV) prédictif
-
-#### Projet 3 —- Analyse du parcours client et identification des frictions
-
-#### Projet 4 —- Diagnostic churn orienté revenu
-
-#### Projet 5 —- Rentabilité des campagnes marketing
-
-#### Projet 6 —- Pricing & élasticité de la demande
-
-#### Projet 7 —- Prévision des ventes orientée décision
-
-#### Projet 8 —- Diagnostic des pertes invisibles (projet signature)
+- **[Projet 1 — Segmentation client orientée valeur (RFM, Pareto, ABC)](project-01-rfm-segmentation/README.md)**  
+- **[Projet 2 — Customer Lifetime Value (CLV) prédictif](project-02-clv/README.md)**  
+- **[Projet 3 — Analyse du parcours client et identification des frictions](project-03-funnel/README.md)**  
+- **[Projet 4 — Diagnostic churn orienté revenu](project-04-churn/README.md)**  
+- **[Projet 5 — Rentabilité des campagnes marketing](project-05-marketing-roi/README.md)**  
+- **[Projet 6 — Pricing & élasticité de la demande](project-06-pricing/README.md)**  
+- **[Projet 7 — Prévision des ventes orientée décision](project-07-forecast/README.md)**  
+- **[Projet 8 — Diagnostic des pertes invisibles (projet signature)](project-08-revenue-leakage/README.md)**  
 
 Chaque projet vise à répondre à une question business précise et à formuler des recommandations concrètes exploitables par une entreprise.
