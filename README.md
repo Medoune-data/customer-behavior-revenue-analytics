@@ -12,20 +12,15 @@ Mon travail consiste à analyser les données clients pour identifier les levier
 - Analyser le comportement d'achat des clients à partir de données transactionnelles
 - Prioriser les clients et segments selon leur impact réel sur le chiffre d’affaires
 - Diagnostiquer les risques de churn et quantifier les pertes de revenu associées
-- Évaluer la rentabilité des actions marketing et des stratégies de prix
-- Anticiper les ventes pour aider à la planification et à la gestion du risque
+- Évaluer la rentabilité des actions marketing 
 
 ## Projets
 
-Ce portfolio est structuré autour de 8 projets analytiques orientés décision :
+Ce portfolio est structuré autour de 4 projets analytiques orientés décision :
 
 - **[Projet 1 — Segmentation client orientée valeur (RFM, Pareto, ABC)](project-01-rfm-segmentation/README.md)**  
-- **[Projet 2 — Customer Lifetime Value (CLV) prédictif](project-02-clv/README.md)**  
-- **[Projet 3 — Analyse du parcours client et identification des frictions](project-03-funnel/README.md)**  
-- **[Projet 4 — Diagnostic churn orienté revenu](project-04-churn/README.md)**  
-- **[Projet 5 — Rentabilité des campagnes marketing](project-05-marketing-roi/README.md)**  
-- **[Projet 6 — Pricing & élasticité de la demande](project-06-pricing/README.md)**  
-- **[Projet 7 — Prévision des ventes orientée décision](project-07-forecast/README.md)**  
-- **[Projet 8 — Diagnostic des pertes invisibles (projet signature)](project-08-revenue-leakage/README.md)**  
+- **[Projet 2 — Customer Lifetime Value (CLV) & rentabilité de l'acquisition](project-02-clv/README.md)**  
+- **[Projet 3 — Diagnostic churn orienté revenu](project-04-churn/README.md)**  
+- **[Projet 8 —Dashboard exécutif & scénarios de décision](project-08-revenue-leakage/README.md)**  
 
 Chaque projet vise à répondre à une question business précise et à formuler des recommandations concrètes exploitables par une entreprise.
