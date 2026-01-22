@@ -21,6 +21,6 @@ Ce portfolio est structuré autour de 4 projets analytiques orientés décision 
 - **[Projet 1 — Segmentation client orientée valeur (RFM, Pareto, ABC)](project-01-rfm-segmentation/README.md)**  
 - **[Projet 2 — Customer Lifetime Value (CLV) & rentabilité de l'acquisition](project-02-clv-acquisition-roi/README.md)**  
 - **[Projet 3 — Diagnostic churn orienté revenu](project-03-churn-retention-revenue-risk/README.md)**  
-- **[Projet 8 —Dashboard exécutif & scénarios de décision](project-04-executive-dashboard-scenarios/README.md)**  
+- **[Projet 4 —Dashboard exécutif & scénarios de décision](project-04-executive-dashboard-scenarios/README.md)**  
 
 Chaque projet vise à répondre à une question business précise et à formuler des recommandations concrètes exploitables par une entreprise.
